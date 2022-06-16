@@ -8,4 +8,4 @@ This website was the final project for a Web Design and Development course I had
 
 I took inspiration from the websites of museums such as the Exploratorium (https://www.exploratorium.edu/) and the Asian Art Museum (https://asianart.org/).
 
-Future Plans: This project only required the use of HTML and CSS, so incorporating JavaScript where appropriate will be the next priority in order to create a more dynamic experience.
+Future Plans: This project only required the use of HTML and CSS, so incorporating more JavaScript where appropriate will be the next priority in order to create a more dynamic experience. As for now, only the navigation menus contain JavaScript, but I plan to add form validation to the ticket order form page.
